@@ -1,7 +1,7 @@
 backend:
   name: git-gateway
-  repo: bamsul/jawarakelas  #Path to your GitHub repository
-  branch: main # Branch to update (master by default)
+  repo: bamsul/jawarakelas # Path to your GitHub repository
+  branch: master # Branch to update (master by default)
 
 media_folder: "images/uploads" # Folder where user uploaded files should go
 
