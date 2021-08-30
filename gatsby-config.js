@@ -1,14 +1,14 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Starter Blog`,
+    title: `Jawara Kelas`,
     author: {
-      name: `Kyle Mathews`,
-      summary: `who lives and works in San Francisco building useful things.`,
+      name: `Bambang Tyo`,
+      summary: `Mau mahir materi sains? Ya belajar di Jawara Kelas!`,
     },
-    description: `A starter blog demonstrating what Gatsby can do.`,
-    siteUrl: `https://gatsbystarterblogsource.gatsbyjs.io/`,
+    description: `Gudangnya ilmu pengetahuan tentang sains`,
+    siteUrl: `https://jawarakelas.netlify.app/`,
     social: {
-      twitter: `kylemathews`,
+      twitter: `jawarakelas`,
     },
   },
   plugins: [
