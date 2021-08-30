@@ -7,7 +7,7 @@ date: 2021-08-30T01:58:57.279Z
 
 Supaya gak banyak yang miskonsepsi mengenai prinsip-prinsip dalam sains. Ini saya berikan beberapa pedoman yang harapannya menjadi pencerah kalian semua.
 
-![Prinsip Dasar Sains](/images/uploads/prinsip-dasar-sains.jpg "Prinsip Dasar Sains")
+![Prinsip Dasar Sains](https://raw.githubusercontent.com/bamsul/jawarakelas/master/images/uploads/prinsip-dasar-sains.jpg "Prinsip Dasar Sains")
 
 ## Sains itu harus ada bukti
 
@@ -43,7 +43,7 @@ Karena hal demikian, akan membawa pada penilaian ilmiah. Tradisi anda berada dal
 
 Matematika adalah alat berpikir yang dibangun oleh logika. Matematika independen terhadap realitas. Ada matematika yang sesuai realitas, ada yang tidak sesuai realitas. Matematika yang sesuai realitas inilah yang digunakan oleh sains.
 
-![Didasari oleh matematika](/images/uploads/pondasinya-adalah-matematika.jpg "Didasari oleh matematika")
+![Didasari oleh matematika](https://raw.githubusercontent.com/bamsul/jawarakelas/master/images/uploads/pondasinya-adalah-matematika.jpg "Didasari oleh matematika")
 
 Dan sains terus mengamati perkembangan matematika dan bila ada yang dapat diambil untuk penjelasan ilmiah, maka sains akan memakainya. Sebagai contoh, sebelumnya orang mengira kalau aljabar linier adalah matematika yang tidak sesuai realita.
 
