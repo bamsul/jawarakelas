@@ -5,7 +5,7 @@ date: 2021-08-31T01:55:58.799Z
 ---
 Ketika membicarakan mengenai perjalanan antar bintang, ada sesuatu yang disebut sebagai “faktor yang menggelitik". Sebagian ilmuwan cenderung untuk mencemooh ide perjalanan antar bintang karena jaraknya yang begitu jauh antara bintang-bintang tersebut.
 
-![Ekspedisi luar angkasa](/images/uploads/ekspedisi-luar-angkasa.jpg "Perjalanan alam semesta")
+![Ekspedisi luar angkasa](https://raw.githubusercontent.com/bamsul/jawarakelas/master/images/uploads/ekspedisi-luar-angkasa.jpg "Perjalanan alam semesta")
 
 ## Kalkulasi Jarak
 
@@ -35,7 +35,7 @@ Penemuan planet yang serupa dengan Bumi mungkin akan membutuhkan waktu 20 tahuna
 
 Sejauh ini, kita tidak melihat bukti kuat adanya sinyal yang berasal dari peradaban ekstraterestrial dari planet manapun yang serupa dengan Bumi.
 
-![Kehidupan di luar bumi](/images/uploads/kehidupan-di-luar-bumi.jpg "Planet menyerupai bumi")
+![Kehidupan di luar bumi](https://raw.githubusercontent.com/bamsul/jawarakelas/master/images/uploads/kehidupan-di-luar-bumi.jpg "Planet menyerupai bumi")
 
 Proyek SETI (Search for Extra-Terrestrial Intelligence = pencarian kehidupan cerdas di luar Bumi) belum menghasilkan bukti apapun yang bernilai tentang adanya kehidupan cerdas di alam semesta dari planet-planet yang serupa dengan Bumi, namun persoalan ini masih perlu untuk dilakukan analisis ilmiah yang lebih serius lagi. Kuncinya adalah menganalisis ulang semua faktor yang tidak mendukung atas perjalanan yang dapat melebihi kecepatan cahaya.
 
